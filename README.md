@@ -1,7 +1,7 @@
 # Bulk-Image-Loader
 Bulk Image Loader for JavaScript
 
-Bulk Image Loader created by Bracer Jack.
+Bulk Image Loader created by Bracer Jack.    
 www.youtube.com.sg/user/Bracerjack.
 
 //Usage:
