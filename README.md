@@ -6,8 +6,9 @@ www.youtube.com.sg/user/Bracerjack.
     
 //Usage:
 
-Just enter this line to include it into your script:    
+Just enter this line to include it into your script:     
 <script src="Bulk_Image_Loader.js"></script>    
+    
     
 //The function all_images_loaded() will be triggered when all images are loaded into memory.    
 //The function progress_report() will be triggered with a single argument containing percentage loaded from 0 to 100% [optional].    
